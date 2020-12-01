@@ -1,0 +1,24 @@
+body {
+  font-family: system-ui;
+  background: #565261;
+  color:#FF9966;
+  text-align: left;
+}
+p {color:#FF9999}
+
+.destacado {
+  color:#ffffff;
+  font-family: timesnewroman;
+  
+}
+
+
+h1 {
+  color:#FF0099;
+}
+
+head
+{
+    font-style: italic;
+}
+
