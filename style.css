@@ -9,6 +9,7 @@ p {color:#FF9999}
 .destacado {
   color:#ffffff;
   font-family: timesnewroman;
+  font-size: 20pt;
   
 }
 
@@ -21,3 +22,4 @@ head
 {
     font-style: italic;
 }
+
